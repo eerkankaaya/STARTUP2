@@ -1,0 +1,15 @@
+C:\Users\eerka\source\repos\ClassLibrary1\Workaround\obj\Debug\net6.0\Workaround.csproj.AssemblyReference.cache
+C:\Users\eerka\source\repos\ClassLibrary1\Workaround\obj\Debug\net6.0\Workaround.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eerka\source\repos\ClassLibrary1\Workaround\obj\Debug\net6.0\Workaround.AssemblyInfoInputs.cache
+C:\Users\eerka\source\repos\ClassLibrary1\Workaround\obj\Debug\net6.0\Workaround.AssemblyInfo.cs
+C:\Users\eerka\source\repos\ClassLibrary1\Workaround\obj\Debug\net6.0\Workaround.csproj.CoreCompileInputs.cache
+C:\Users\eerka\source\repos\ClassLibrary1\Workaround\bin\Debug\net6.0\Workaround.exe
+C:\Users\eerka\source\repos\ClassLibrary1\Workaround\bin\Debug\net6.0\Workaround.deps.json
+C:\Users\eerka\source\repos\ClassLibrary1\Workaround\bin\Debug\net6.0\Workaround.runtimeconfig.json
+C:\Users\eerka\source\repos\ClassLibrary1\Workaround\bin\Debug\net6.0\Workaround.dll
+C:\Users\eerka\source\repos\ClassLibrary1\Workaround\bin\Debug\net6.0\Workaround.pdb
+C:\Users\eerka\source\repos\ClassLibrary1\Workaround\obj\Debug\net6.0\Workaround.dll
+C:\Users\eerka\source\repos\ClassLibrary1\Workaround\obj\Debug\net6.0\refint\Workaround.dll
+C:\Users\eerka\source\repos\ClassLibrary1\Workaround\obj\Debug\net6.0\Workaround.pdb
+C:\Users\eerka\source\repos\ClassLibrary1\Workaround\obj\Debug\net6.0\Workaround.genruntimeconfig.cache
+C:\Users\eerka\source\repos\ClassLibrary1\Workaround\obj\Debug\net6.0\ref\Workaround.dll
